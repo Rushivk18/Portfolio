@@ -64,7 +64,7 @@ h3 {
 .item-details h3 ~ p {
   margin: 0;
 }
-.divid {
+.divider {
   text-align: justify;
 }
 .divider > section {
